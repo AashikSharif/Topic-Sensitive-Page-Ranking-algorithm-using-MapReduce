@@ -69,7 +69,7 @@ ________________________________________________________________________________
 
 For futher queries or doubts:  
 * mailto: ashiktcy.s@gmail.com  
-* LinkedIn: [AashikSharif](https://www.linkedin.com/in/aashik-sharif-b-44ba40b5/)
+* LinkedIn: [AashikSharif](https://www.linkedin.com/in/aashiksharif/)
 
 _________________________________________________________________________________
 
