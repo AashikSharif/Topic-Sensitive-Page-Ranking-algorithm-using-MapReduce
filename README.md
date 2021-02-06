@@ -48,9 +48,10 @@ I assume that you have installed **spark**,**pyspark**,**Gephi** and reqired **p
 
    Sample example is Given below.  
    
-   `spark-submit ..\pagerank.py local[1] ..\crawlerdata\mylist.txt 10`  
+   `spark-submit ..\pagerank.py local[1] ..\crawlerdata\mylist.txt 10`   
 
-   To run pagerank.py execute the command in spark bin folder using command prompt. Syntax is given below.    
+
+   To run topic_sensitive.py execute the command in spark bin folder using command prompt. Syntax is given below.    
 
    `spark-submit path\to\file\from\bin\folder\topic_sensitive.py local[<number of threads>] path\to\file\from\bin\folder\<Edge_list_file> <Number_of_Iterations> path\to\file\from\bin\folder\<Topics_file>`  
 
@@ -67,6 +68,17 @@ The outputs have been as per orderly manner of the steps proceeded to run the pr
 View and visualize output data as per the given order.  
 
 The sample file gives a simple interpretation of files and was run still step 3 (i.e to visualize the graph using gephi and calculated the page rank using the gephi app)  
+
+
+#### PageRank output for the Dataset
+
+[pr](./OUTPUTS/4-Final_outputs/pr.png)  
+
+
+#### Topic Sensiive Page Rank output for the given dataset  
+
+[tspr](./OUTPUTS/4-Final_outputs/tspr.png)  
+
 
 _________________________________________________________________________________
 
