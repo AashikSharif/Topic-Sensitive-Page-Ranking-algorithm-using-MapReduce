@@ -72,12 +72,12 @@ The sample file gives a simple interpretation of files and was run still step 3 
 
 #### PageRank output for the Dataset
 
-[pr](./OUTPUTS/4-Final_outputs/pr.png)  
+![pr](./OUTPUTS/4-Final_outputs/pr.png)  
 
 
 #### Topic Sensiive Page Rank output for the given dataset  
 
-[tspr](./OUTPUTS/4-Final_outputs/tspr.png)  
+![tspr](./OUTPUTS/4-Final_outputs/tspr.png)  
 
 
 _________________________________________________________________________________
