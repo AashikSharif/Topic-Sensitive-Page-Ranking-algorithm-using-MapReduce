@@ -12,6 +12,8 @@ SASTRA Deemed to be University
 # for the reference of how to run this project in a standalone system.
 _________________________________________________________________________________
 
+![NodeGraph](OUTPUTS\3\)Gephi outputs and snapshots\sastra_webGraph.png)
+
 I assume that you have installed **spark**,**pyspark**,**Gephi** and reqired **python packages**.  
 
 ## To run the program:  
